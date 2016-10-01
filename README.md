@@ -2,8 +2,8 @@
 
 Create 3D audio tracks with ease
 
--2D placement with 3D playback (aerial view)
--Conductor VR experience
+- 2D placement with 3D playback (aerial view)
+- Conductor VR experience
   - vive controllers = wand
   - sections are customizeable but has defaults (like drumpad or orchestra)
   - recorded as the user hears it
